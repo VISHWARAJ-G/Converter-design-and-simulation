@@ -107,7 +107,7 @@ The AC power supply from mains first gets converted into and unregulated DC and 
 
 ## DC to DC voltage regulator
 
-![alt text](<Screenshot (223).png>)
+![alt text](<Screenshot (225).png>)
 # Result 
 
 Thus the AC to DC converter and DC voltage regulator are designed and simulated using Proteus.
